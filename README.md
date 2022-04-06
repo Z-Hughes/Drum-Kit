@@ -8,9 +8,9 @@ HTML (5) CSS (3) JavaScript (ES6)
 
 Skills Implemented:  
 
-Event Listeners 
-Higher Order Functions 
-JS Objects 
-Callbacks and Responding to Events 
-Simple Animations 
-Manipulating HTMl element attributes with JS 
+Event Listeners   
+Higher Order Functions   
+JS Objects   
+Callbacks and Responding to Events   
+Simple Animations   
+Manipulating HTMl element attributes with JS   
