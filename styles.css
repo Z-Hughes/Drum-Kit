@@ -61,8 +61,8 @@ background-image: url("images/tom4.png");
 }
 
 .pressed {
-  box-shadow: 0 3px 4px 0 #DBEDF3;
-  opacity: 0.5;
+  box-shadow: 0 5px 6px 0 #DBEDF3;
+  opacity: .5;
 }
 
 .drum {
@@ -86,6 +86,24 @@ background-image: url("images/tom4.png");
   
 }
 
+  /* Media Query Breakpoints for responisivenes */
+
+  @media (max-width: 1028px) {
+    
+    h1 {
+        font-size: 3rem;
+    }
+    
+    .drum {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        border-radius: 50px;
+        width: 100px;
+        height: 100px;
+        margin: 4% 2%;
+    }
+        
+}
 
 /* Alternative color for border and text shawdow */
 /* rgb(174, 54, 221);
