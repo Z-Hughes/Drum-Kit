@@ -17,7 +17,7 @@ h1 {
   New Rocker */
   font-family: 'New Rocker', cursive;
   text-shadow: 10px 0 black;
-  margin: 3%;
+  margin: 2%;
   
   
 }
@@ -70,7 +70,7 @@ background-image: url("images/tom4.png");
   /* border: 5px solid rgba(153, 22, 22, 0.76); */
   font-size: 3rem;
   font-family: 'Arvo', cursive;
-  line-height: 4.5;
+  line-height: 3;
   font-weight: 900;
   color: black;
   /* text-shadow: 5px 0 rgb(116, 14, 14); */
@@ -79,7 +79,7 @@ background-image: url("images/tom4.png");
   width: 200px;
   height: 200px;
   text-align: center;
-  margin: 1% 6%;
+  margin: 1% 4%;
   background-color: white;
   background-size: cover;
   background-repeat: no-repeat;
