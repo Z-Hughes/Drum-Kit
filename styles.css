@@ -2,8 +2,7 @@
 body {
   text-align: center;
   background-color: #283149;
-
-  background-image: url(../images/drums6.jpg);
+  background-image: url(../images/band.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,11 +10,14 @@ body {
 }
 
 h1 {
-  font-size: 8rem;
+  font-size: 10rem;
   color: white;
-  font-family: 'Shadows Into Light', cursive;
-  text-shadow: 3px 0 rgb(174, 54, 221);
-  margin: 0;
+  /* Shadows Into Light
+  Permanent Marker
+  New Rocker */
+  font-family: 'New Rocker', cursive;
+  text-shadow: 10px 0 black;
+  margin: 3%;
   
   
 }
@@ -58,34 +60,34 @@ background-image: url("images/tom4.png");
   margin: 2% auto;
 }
 
-/* .game-over {
-  background-color: red;
-  opacity: 0.8;
-} */
-
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
 }
-/* 
-.red {
-  color: red;
-} */
 
 .drum {
   outline: none;
-  border: 5px solid rgb(174, 54, 221);
-  font-size: 4rem;
+  /* border: 5px solid rgba(153, 22, 22, 0.76); */
+  font-size: 3rem;
   font-family: 'Arvo', cursive;
   line-height: 4.5;
   font-weight: 900;
-  color: white;
-  text-shadow: 3px 0 rgb(174, 54, 221);
-  border-radius: 75px;
+  color: black;
+  /* text-shadow: 5px 0 rgb(116, 14, 14); */
+  border-radius: 100px;
   display: inline-block;
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   text-align: center;
-  margin: 5% 5%;
+  margin: 1% 6%;
   background-color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
 }
+
+
+/* Alternative color for border and text shawdow */
+/* rgb(174, 54, 221);
+rgb(165, 17, 49) */
+
