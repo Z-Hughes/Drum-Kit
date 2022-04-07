@@ -32,7 +32,7 @@ function makeSound(key) {
       break;
 
     case "a":
-      var kick = new Audio("sounds/kick-bass.mp3")
+      var kick = new Audio("sounds/bass.wav")
       kick.play();
       break;
 
