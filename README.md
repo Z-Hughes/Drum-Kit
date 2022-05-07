@@ -1,6 +1,8 @@
 # Drum-Kit
 
-Interactive Drum Kit. This project's focus is on advanced Javascript DOM manipulation. 
+A fun interactive Drum Kit for when you are bored. This project's focus is on advanced Javascript DOM manipulation. 
+
+View Live Site: https://boredrum.herokuapp.com/
 
 Project Technologies: 
 
