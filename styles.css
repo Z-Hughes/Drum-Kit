@@ -6,6 +6,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   text-align: center;
+  height: 100vh;
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
   color: rgb(119, 109, 105);
   font-family: 'New Rocker', cursive;
   text-shadow: 10px 0 black;
-  margin: 2%;
+  margin: 10%;
 }
 
 footer {
