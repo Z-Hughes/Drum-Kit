@@ -11,14 +11,14 @@ body {
 
 h1 {
   font-size: 8rem;
-  color: rgb(218, 169, 35);
+  color:rgb(180, 180, 180);
   font-family: 'New Rocker', cursive;
   text-shadow: 10px 0 black;
-  margin: 10%;
+  margin: 5%;
 }
 
 footer {
-  color: rgb(218, 169, 35);
+  color: white;
   font-family: 'Arvo', cursive;
 }
 
